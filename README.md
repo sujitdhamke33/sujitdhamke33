@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently new here
 <!--
 **sujitdhamke33/sujitdhamke33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
